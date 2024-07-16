@@ -1,0 +1,1 @@
+As a higher education professional working in enrollment management, I firmly believe in utilizing high-level data analytics to drive institutional decisions. The projects here aim to analyze higher education data in Python via Pandas, Sci-Kit Learn, and more. 
